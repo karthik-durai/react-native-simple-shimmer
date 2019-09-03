@@ -1,0 +1,29 @@
+{
+  "name": "react-native-simple-shimmer",
+  "version": "1.0.0",
+  "description": "a simple shimmer component for react native",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KarthikSiddarth/react-native-simple-shimmer.git"
+  },
+  "keywords": [
+		"shimmer",
+    "react-native",
+    "loader",
+    "activity-indicator",
+    "activity",
+    "indicator",
+    "react",
+    "native"
+  ],
+  "author": "\"react-native\",",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/KarthikSiddarth/react-native-simple-shimmer/issues"
+  },
+  "homepage": "https://github.com/KarthikSiddarth/react-native-simple-shimmer#readme"
+}
