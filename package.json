@@ -25,5 +25,8 @@
   "bugs": {
     "url": "https://github.com/KarthikSiddarth/react-native-simple-shimmer/issues"
   },
-  "homepage": "https://github.com/KarthikSiddarth/react-native-simple-shimmer#readme"
+  "homepage": "https://github.com/KarthikSiddarth/react-native-simple-shimmer#readme",
+  "devDependencies": {
+    "prop-types": "^15.7.2"
+  }
 }
