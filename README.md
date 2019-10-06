@@ -1,5 +1,9 @@
 ## React Native Simple Shimmer
 
+### Preview
+
+![]()
+
 ### Example
 
 ```js
