@@ -2,7 +2,7 @@
 
 ### Preview
 
-![]()
+![](https://raw.githubusercontent.com/KarthikSiddarth/react-native-simple-shimmer/master/src/assets/20191006_150646.gif?token=AJVCZJGKKRSLZK2QLLM7IKK5TG4ZQ)
 
 ### Example
 
